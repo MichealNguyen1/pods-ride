@@ -38,7 +38,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 LICENSE
   }
   s.author                = { 'VinhND' => 'vinh.03119@gmail.com' }
-  s.source                = { :http => "https://git.ahamove.com/mobile/public/pod-flutter-module/-/raw/6ab4462ee539dcbc9a68b07cf9bbafa765568d4b/flutter-onwheel.zip"}
+  s.source                = { :http => "https://github.com/MichealNguyen1/pods-ride/raw/main/flutter-onwheel.zip"}
   s.documentation_url     = 'https://flutter.dev/docs'
   s.platform              = :ios, '12.0'
   s.vendored_frameworks   = [
